@@ -1,0 +1,113 @@
+.body {
+  font-family: 'Inter', 'Arial', sans-serif;
+  max-width: 1280px;
+  min-width: 320px;
+  margin: 0 auto;
+  text: black;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+}
+
+.header {
+}
+
+.main {
+  max-width: 1200px;
+  position: absolute;
+}
+
+.columns {
+  display: flex;
+}
+
+.left-column {
+  max-width: 300px;
+  background-color: #f6fff8;
+  justify-content: center;
+}
+
+.right-column {
+  max-width: 700px;
+  background-color: #c3fbd8;
+  justify-content: center;
+}
+
+.name {
+  max-width: 400px;
+  margin: 100px 0 40px 40px;
+  font-size: 30px;
+  text-transform: uppercase;
+}
+
+.info {
+  max-width: 600px;
+  margin: 20px 50px 10px 50px;
+  /* justify-content: left; */
+  text-align: left;
+}
+
+.info-box {
+  background-color: rgb(115, 234, 194);
+  padding: 20px;
+  border: 1px black;
+  border-radius: 10px;
+  box-shadow: 0px 2px 5px gray;
+}
+
+.table {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+.table-projects {
+  /* display: flex; */
+  margin: 0;
+  padding: 0;
+}
+
+.project-link {
+  width: auto;
+  margin: 0 10px 0 10px;
+  padding: 0;
+  align-items: stretch;
+}
+
+.project-title {
+  width: auto;
+}
+
+.paragraph {
+  max-width: 100%;
+  /* margin: 20px 20px 20px 20px; */
+}
+
+.photo {
+  max-width: 250px;
+  border-radius: 50%;
+  margin: 20px;
+}
+
+.left-title {
+  font-size: 25px;
+}
+
+.right-title {
+  margin: 0;
+  padding: 0;
+}
+
+a.button {
+  /* -webkit-appearance: button;
+  -moz-appearance: button;
+  appearance: button; */
+
+  text-decoration: none;
+  color: blue;
+  margin: 0;
+  padding: 0;
+}
+
+.footer {
+}
