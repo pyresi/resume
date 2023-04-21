@@ -1,0 +1,32 @@
+@import url(../vendor/normalize.css);
+
+@import url(../blocks/body/body.css);
+
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__title/header__title.css);
+@import url(../blocks/header/__links/header__links.css);
+@import url(../blocks/header/__link/header__link.css);
+
+@import url(../blocks/main/main.css);
+
+@import url(../blocks/profile/profile.css);
+@import url(../blocks/profile/__photo/profile__photo.css);
+@import url(../blocks/profile/__name/profile__name.css);
+
+@import url(../blocks/skills/skills.css);
+@import url(../blocks/skills/__list/skills__list.css);
+@import url(../blocks/skills/__item/skills__item.css);
+
+@import url(../blocks/experience/experience.css);
+@import url(../blocks/experience/__link/experience__link.css);
+
+@import url(../blocks/button/button.css);
+
+@import url(../blocks/logo/logo.css);
+@import url(../blocks/container/container.css);
+@import url(../blocks/title/title.css);
+
+@import url(../blocks/table/table.css);
+@import url(../blocks/table/__items/table__items.css);
+
+@import url(../blocks/footer/footer.css);
