@@ -1,0 +1,14 @@
+.body {
+  font-family: 'Inter', 'Arial', sans-serif;
+  max-width: 1280px;
+  min-width: 320px;
+  margin: 0 auto;
+  text: black;
+  /* background-color: white; */
+  display: block;
+  align-items: center;
+  justify-content: center;
+  background-image: url('../../images/unsplash.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
